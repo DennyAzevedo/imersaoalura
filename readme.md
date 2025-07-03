@@ -16,6 +16,26 @@ Para automatizar as tarefas de build e deploy foram criados os arquivos:
 - dockerignore
 - docker-compose
 
+## Google Cloud
+
+- Projeto criado na Google Cloud
+![Projeto CGP](/images/ProjetoGCP.png)
+
+- Artifact Registry - imagem do container
+![Artifact Registry](/images/ArtifactRegistry.png)
+
+- Container Docker criado
+![Container Docker](/images/ContainerCriado.png)
+
+- Incluindo alunos - aplicação rodando no GCP
+![Inclusão aluno](/images/IncluindoAluno.png)
+
+- Listando alunos - aplicação rodando no GCP
+![Listando alunos](/images/ListandoAluno.png)
+
+- Monitorando uso da aplicação
+![Monitorando uso](/images/UsoAplicacaoGCloud.png)
+
 ## Passos para subir o projeto - Local
 
 1. **Faça o download do repositório:**

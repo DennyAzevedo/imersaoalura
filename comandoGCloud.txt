@@ -1,0 +1,5 @@
+﻿$ gcloud auth login
+
+$ gcloud config set project <Id do projeto na GCP>
+
+$ gcloud run deploy --port=8000
